@@ -1,7 +1,7 @@
 
 
 <div align="center">
-   <img src = "" width="150" height="150" /><br>
+   <img src = "https://avatars2.githubusercontent.com/u/8798209?s=400&u=305e9db87ab9bedcf0dd9675dcf35bcedc41de9d&v=4" width="150" height="150" /><br>
    Adhikari S.(Ph.D. Physics)<br>
 </div>
 <br>
@@ -10,9 +10,9 @@
 ### Deep Learning Projects
 
 
-***Project 1.*** [***Perceptron***](https://github.com/Vasuji/DLND-perceptron/blob/master/dlnd-your-first-neural-network.ipynb): 
+***Project 1.*** [***Perceptron***](https://github.com/sadhi003/DLND-perceptron/blob/master/dlnd-your-first-neural-network.ipynb): 
 
-Built basic neural network with python and numpy and used it to predict daily bike rental ridership. Implemented back propagation and parameter tuning. [Source Code](https://github.com/Vasuji/DLND-perceptron)
+Built basic neural network with python and numpy and used it to predict daily bike rental ridership. Implemented back propagation and parameter tuning. [Source Code](https://github.com/sadhi003/DLND-perceptron)
 
 <img src = "https://i.stack.imgur.com/KUvpQ.png" width="500" height="250" />
 
