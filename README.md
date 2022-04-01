@@ -11,7 +11,7 @@ Built basic neural network with python and numpy and used it to predict daily bi
  
  --------------------------------------
 
-***Project 2.*** [***CIFAR10-Image Classifier-CNN***](https://github.com/sadhi003/DLND-cifar10/blob/master/dlnd_image_classification.ipynb): 
+***Project 2.*** [***CIFAR10-Image Classifier-CNN***](https://github.com/sadhi003/DLND-cifar10): 
 
 Built convolutional neural network to extract features from images and use it to classify images based on the object appear on them. [Source Code](https://github.com/sadhi003/DLND-cifar10)
 
